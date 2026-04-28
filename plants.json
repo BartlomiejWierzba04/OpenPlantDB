@@ -1,0 +1,402 @@
+{
+  "monstera_deliciosa": {
+    "name": "Monstera",
+    "species": "Monstera deliciosa",
+    "baseWateringIntervalDays": 7,
+    "idealTemperature": 24.0,
+    "idealHumidity": 60.0,
+    "environment": "Indoor"
+  },
+  "sansevieria_trifasciata": {
+    "name": "Snake Plant",
+    "species": "Sansevieria trifasciata",
+    "baseWateringIntervalDays": 14,
+    "idealTemperature": 21.0,
+    "idealHumidity": 40.0,
+    "environment": "Indoor"
+  },
+  "chlorophytum_comosum": {
+    "name": "Spider Plant",
+    "species": "Chlorophytum comosum",
+    "baseWateringIntervalDays": 7,
+    "idealTemperature": 20.0,
+    "idealHumidity": 50.0,
+    "environment": "Indoor"
+  },
+  "spathiphyllum": {
+    "name": "Peace Lily",
+    "species": "Spathiphyllum",
+    "baseWateringIntervalDays": 5,
+    "idealTemperature": 23.0,
+    "idealHumidity": 65.0,
+    "environment": "Indoor"
+  },
+  "epipremnum_aureum": {
+    "name": "Golden Pothos",
+    "species": "Epipremnum aureum",
+    "baseWateringIntervalDays": 10,
+    "idealTemperature": 22.0,
+    "idealHumidity": 50.0,
+    "environment": "Indoor"
+  },
+  "aloe_barbadensis": {
+    "name": "Aloe Vera",
+    "species": "Aloe barbadensis",
+    "baseWateringIntervalDays": 21,
+    "idealTemperature": 25.0,
+    "idealHumidity": 30.0,
+    "environment": "Indoor"
+  },
+  "zamioculcas_zamiifolia": {
+    "name": "ZZ Plant",
+    "species": "Zamioculcas zamiifolia",
+    "baseWateringIntervalDays": 20,
+    "idealTemperature": 22.0,
+    "idealHumidity": 40.0,
+    "environment": "Indoor"
+  },
+  "ficus_lyrata": {
+    "name": "Fiddle Leaf Fig",
+    "species": "Ficus lyrata",
+    "baseWateringIntervalDays": 10,
+    "idealTemperature": 24.0,
+    "idealHumidity": 60.0,
+    "environment": "Indoor"
+  },
+  "ficus_elastica": {
+    "name": "Rubber Plant",
+    "species": "Ficus elastica",
+    "baseWateringIntervalDays": 12,
+    "idealTemperature": 22.0,
+    "idealHumidity": 50.0,
+    "environment": "Indoor"
+  },
+  "crassula_ovata": {
+    "name": "Jade Plant",
+    "species": "Crassula ovata",
+    "baseWateringIntervalDays": 15,
+    "idealTemperature": 20.0,
+    "idealHumidity": 35.0,
+    "environment": "Indoor"
+  },
+  "philodendron_hederaceum": {
+    "name": "Philodendron",
+    "species": "Philodendron hederaceum",
+    "baseWateringIntervalDays": 8,
+    "idealTemperature": 23.0,
+    "idealHumidity": 55.0,
+    "environment": "Indoor"
+  },
+  "aglaonema": {
+    "name": "Chinese Evergreen",
+    "species": "Aglaonema",
+    "baseWateringIntervalDays": 10,
+    "idealTemperature": 21.0,
+    "idealHumidity": 50.0,
+    "environment": "Indoor"
+  },
+  "hedera_helix": {
+    "name": "English Ivy",
+    "species": "Hedera helix",
+    "baseWateringIntervalDays": 7,
+    "idealTemperature": 18.0,
+    "idealHumidity": 45.0,
+    "environment": "Outdoor"
+  },
+  "nephrolepis_exaltata": {
+    "name": "Boston Fern",
+    "species": "Nephrolepis exaltata",
+    "baseWateringIntervalDays": 4,
+    "idealTemperature": 20.0,
+    "idealHumidity": 80.0,
+    "environment": "Indoor"
+  },
+  "aspidistra_elatior": {
+    "name": "Cast Iron Plant",
+    "species": "Aspidistra elatior",
+    "baseWateringIntervalDays": 14,
+    "idealTemperature": 15.0,
+    "idealHumidity": 40.0,
+    "environment": "Indoor"
+  },
+  "chamaedorea_elegans": {
+    "name": "Parlor Palm",
+    "species": "Chamaedorea elegans",
+    "baseWateringIntervalDays": 10,
+    "idealTemperature": 22.0,
+    "idealHumidity": 50.0,
+    "environment": "Indoor"
+  },
+  "saintpaulia": {
+    "name": "African Violet",
+    "species": "Saintpaulia",
+    "baseWateringIntervalDays": 6,
+    "idealTemperature": 21.0,
+    "idealHumidity": 60.0,
+    "environment": "Indoor"
+  },
+  "calathea_makoyana": {
+    "name": "Calathea",
+    "species": "Calathea makoyana",
+    "baseWateringIntervalDays": 7,
+    "idealTemperature": 23.0,
+    "idealHumidity": 70.0,
+    "environment": "Indoor"
+  },
+  "codiaeum_variegatum": {
+    "name": "Croton",
+    "species": "Codiaeum variegatum",
+    "baseWateringIntervalDays": 7,
+    "idealTemperature": 24.0,
+    "idealHumidity": 60.0,
+    "environment": "Indoor"
+  },
+  "dracaena_marginata": {
+    "name": "Dracaena",
+    "species": "Dracaena marginata",
+    "baseWateringIntervalDays": 14,
+    "idealTemperature": 22.0,
+    "idealHumidity": 50.0,
+    "environment": "Indoor"
+  },
+  "alocasia": {
+    "name": "Elephant Ear",
+    "species": "Alocasia",
+    "baseWateringIntervalDays": 5,
+    "idealTemperature": 25.0,
+    "idealHumidity": 75.0,
+    "environment": "Indoor"
+  },
+  "beaucarnea_recurvata": {
+    "name": "Ponytail Palm",
+    "species": "Beaucarnea recurvata",
+    "baseWateringIntervalDays": 20,
+    "idealTemperature": 22.0,
+    "idealHumidity": 30.0,
+    "environment": "Indoor"
+  },
+  "aphelandra_squarrosa": {
+    "name": "Zebra Plant",
+    "species": "Aphelandra squarrosa",
+    "baseWateringIntervalDays": 6,
+    "idealTemperature": 21.0,
+    "idealHumidity": 65.0,
+    "environment": "Indoor"
+  },
+  "begonia_maculata": {
+    "name": "Begonia",
+    "species": "Begonia maculata",
+    "baseWateringIntervalDays": 7,
+    "idealTemperature": 20.0,
+    "idealHumidity": 60.0,
+    "environment": "Indoor"
+  },
+  "bromeliaceae": {
+    "name": "Bromeliad",
+    "species": "Bromeliaceae",
+    "baseWateringIntervalDays": 10,
+    "idealTemperature": 23.0,
+    "idealHumidity": 55.0,
+    "environment": "Indoor"
+  },
+  "senecio_rowleyanus": {
+    "name": "String of Pearls",
+    "species": "Senecio rowleyanus",
+    "baseWateringIntervalDays": 14,
+    "idealTemperature": 22.0,
+    "idealHumidity": 40.0,
+    "environment": "Indoor"
+  },
+  "tillandsia": {
+    "name": "Air Plant",
+    "species": "Tillandsia",
+    "baseWateringIntervalDays": 7,
+    "idealTemperature": 21.0,
+    "idealHumidity": 70.0,
+    "environment": "Indoor"
+  },
+  "dypsis_lutescens": {
+    "name": "Areca Palm",
+    "species": "Dypsis lutescens",
+    "baseWateringIntervalDays": 10,
+    "idealTemperature": 24.0,
+    "idealHumidity": 55.0,
+    "environment": "Indoor"
+  },
+  "chamaedorea_seifrizii": {
+    "name": "Bamboo Palm",
+    "species": "Chamaedorea seifrizii",
+    "baseWateringIntervalDays": 10,
+    "idealTemperature": 22.0,
+    "idealHumidity": 50.0,
+    "environment": "Indoor"
+  },
+  "strelitzia": {
+    "name": "Bird of Paradise",
+    "species": "Strelitzia",
+    "baseWateringIntervalDays": 10,
+    "idealTemperature": 25.0,
+    "idealHumidity": 60.0,
+    "environment": "Indoor"
+  },
+  "euphorbia_milii": {
+    "name": "Crown of Thorns",
+    "species": "Euphorbia milii",
+    "baseWateringIntervalDays": 14,
+    "idealTemperature": 24.0,
+    "idealHumidity": 30.0,
+    "environment": "Outdoor"
+  },
+  "cyclamen_persicum": {
+    "name": "Cyclamen",
+    "species": "Cyclamen persicum",
+    "baseWateringIntervalDays": 5,
+    "idealTemperature": 15.0,
+    "idealHumidity": 50.0,
+    "environment": "Indoor"
+  },
+  "echeveria_elegans": {
+    "name": "Echeveria",
+    "species": "Echeveria elegans",
+    "baseWateringIntervalDays": 15,
+    "idealTemperature": 22.0,
+    "idealHumidity": 30.0,
+    "environment": "Outdoor"
+  },
+  "haworthiopsis_attenuata": {
+    "name": "Haworthia",
+    "species": "Haworthiopsis attenuata",
+    "baseWateringIntervalDays": 20,
+    "idealTemperature": 20.0,
+    "idealHumidity": 30.0,
+    "environment": "Indoor"
+  },
+  "hoya_carnosa": {
+    "name": "Hoya",
+    "species": "Hoya carnosa",
+    "baseWateringIntervalDays": 14,
+    "idealTemperature": 22.0,
+    "idealHumidity": 50.0,
+    "environment": "Indoor"
+  },
+  "kalanchoe_blossfeldiana": {
+    "name": "Kalanchoe",
+    "species": "Kalanchoe blossfeldiana",
+    "baseWateringIntervalDays": 14,
+    "idealTemperature": 20.0,
+    "idealHumidity": 40.0,
+    "environment": "Indoor"
+  },
+  "lithops_pseudotruncatella": {
+    "name": "Lithops",
+    "species": "Lithops pseudotruncatella",
+    "baseWateringIntervalDays": 30,
+    "idealTemperature": 25.0,
+    "idealHumidity": 20.0,
+    "environment": "Indoor"
+  },
+  "pachira_aquatica": {
+    "name": "Money Tree",
+    "species": "Pachira aquatica",
+    "baseWateringIntervalDays": 10,
+    "idealTemperature": 22.0,
+    "idealHumidity": 50.0,
+    "environment": "Indoor"
+  },
+  "phalaenopsis": {
+    "name": "Moth Orchid",
+    "species": "Phalaenopsis",
+    "baseWateringIntervalDays": 7,
+    "idealTemperature": 24.0,
+    "idealHumidity": 65.0,
+    "environment": "Indoor"
+  },
+  "peperomia_obtusifolia": {
+    "name": "Peperomia",
+    "species": "Peperomia obtusifolia",
+    "baseWateringIntervalDays": 10,
+    "idealTemperature": 20.0,
+    "idealHumidity": 50.0,
+    "environment": "Indoor"
+  },
+  "euphorbia_pulcherrima": {
+    "name": "Poinsettia",
+    "species": "Euphorbia pulcherrima",
+    "baseWateringIntervalDays": 7,
+    "idealTemperature": 20.0,
+    "idealHumidity": 50.0,
+    "environment": "Indoor"
+  },
+  "maranta_leuconeura": {
+    "name": "Prayer Plant",
+    "species": "Maranta leuconeura",
+    "baseWateringIntervalDays": 7,
+    "idealTemperature": 22.0,
+    "idealHumidity": 70.0,
+    "environment": "Indoor"
+  },
+  "cycas_revoluta": {
+    "name": "Sago Palm",
+    "species": "Cycas revoluta",
+    "baseWateringIntervalDays": 14,
+    "idealTemperature": 22.0,
+    "idealHumidity": 40.0,
+    "environment": "Outdoor"
+  },
+  "schefflera_arboricola": {
+    "name": "Schefflera",
+    "species": "Schefflera arboricola",
+    "baseWateringIntervalDays": 10,
+    "idealTemperature": 21.0,
+    "idealHumidity": 50.0,
+    "environment": "Indoor"
+  },
+  "ficus_benjamina": {
+    "name": "Weeping Fig",
+    "species": "Ficus benjamina",
+    "baseWateringIntervalDays": 10,
+    "idealTemperature": 22.0,
+    "idealHumidity": 50.0,
+    "environment": "Indoor"
+  },
+  "yucca_elephantipes": {
+    "name": "Yucca",
+    "species": "Yucca elephantipes",
+    "baseWateringIntervalDays": 20,
+    "idealTemperature": 20.0,
+    "idealHumidity": 30.0,
+    "environment": "Outdoor"
+  },
+  "peperomia_prostrata": {
+    "name": "String of Turtles",
+    "species": "Peperomia prostrata",
+    "baseWateringIntervalDays": 10,
+    "idealTemperature": 21.0,
+    "idealHumidity": 60.0,
+    "environment": "Indoor"
+  },
+  "caryota": {
+    "name": "Fishtail Palm",
+    "species": "Caryota",
+    "baseWateringIntervalDays": 12,
+    "idealTemperature": 25.0,
+    "idealHumidity": 60.0,
+    "environment": "Indoor"
+  },
+  "hypoestes_phyllostachya": {
+    "name": "Polka Dot Plant",
+    "species": "Hypoestes phyllostachya",
+    "baseWateringIntervalDays": 5,
+    "idealTemperature": 22.0,
+    "idealHumidity": 65.0,
+    "environment": "Indoor"
+  },
+  "fittonia": {
+    "name": "Nerve Plant",
+    "species": "Fittonia",
+    "baseWateringIntervalDays": 5,
+    "idealTemperature": 23.0,
+    "idealHumidity": 70.0,
+    "environment": "Indoor"
+  }
+}
