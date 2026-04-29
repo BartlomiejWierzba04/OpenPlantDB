@@ -5,7 +5,8 @@
     "baseWateringIntervalDays": 7,
     "idealTemperature": 24.0,
     "idealHumidity": 60.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A popular tropical houseplant famous for its large, glossy leaves with natural holes and splits. Fun Fact: In the wild, its fruit is edible and tastes like a mix of banana and pineapple."
   },
   "sansevieria_trifasciata": {
     "name": "Snake Plant",
@@ -13,7 +14,8 @@
     "baseWateringIntervalDays": 14,
     "idealTemperature": 21.0,
     "idealHumidity": 40.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A highly resilient, structural plant with tall, stiff, sword-like leaves banded in varying shades of green. Fun Fact: It is also affectionately known as 'Mother-in-Law's Tongue' due to the sharpness of its leaf tips."
   },
   "chlorophytum_comosum": {
     "name": "Spider Plant",
@@ -21,7 +23,8 @@
     "baseWateringIntervalDays": 7,
     "idealTemperature": 20.0,
     "idealHumidity": 50.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A fast-growing, adaptable plant characterized by long, cascading green-and-white striped foliage. Fun Fact: It produces miniature plantlets on long, wiry stems that look like little spiders dangling from a web."
   },
   "spathiphyllum": {
     "name": "Peace Lily",
@@ -29,7 +32,8 @@
     "baseWateringIntervalDays": 5,
     "idealTemperature": 23.0,
     "idealHumidity": 65.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "An elegant plant featuring lush, dark green foliage and beautiful white hood-like blooms. Fun Fact: It's not a true lily, and its 'flower' is actually a specialized leaf bract called a spathe."
   },
   "epipremnum_aureum": {
     "name": "Golden Pothos",
@@ -37,7 +41,8 @@
     "baseWateringIntervalDays": 10,
     "idealTemperature": 22.0,
     "idealHumidity": 50.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A vigorously trailing vine featuring heart-shaped leaves marbled with yellow or white variegation. Fun Fact: It is notoriously difficult to kill, earning it the nickname 'Devil's Ivy'."
   },
   "aloe_barbadensis": {
     "name": "Aloe Vera",
@@ -45,7 +50,8 @@
     "baseWateringIntervalDays": 21,
     "idealTemperature": 25.0,
     "idealHumidity": 30.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A practical succulent with thick, fleshy, lightly serrated leaves arranged in a rosette pattern. Fun Fact: The clear gel inside its leaves has been used for thousands of years to soothe burns and skin irritations."
   },
   "zamioculcas_zamiifolia": {
     "name": "ZZ Plant",
@@ -53,7 +59,8 @@
     "baseWateringIntervalDays": 20,
     "idealTemperature": 22.0,
     "idealHumidity": 40.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "An almost indestructible houseplant with thick, waxy, dark green leaflets arranged symmetrically along arching stems. Fun Fact: It stores water in potato-like rhizomes beneath the soil, allowing it to survive months without a drop of water."
   },
   "ficus_lyrata": {
     "name": "Fiddle Leaf Fig",
@@ -61,7 +68,8 @@
     "baseWateringIntervalDays": 10,
     "idealTemperature": 24.0,
     "idealHumidity": 60.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A highly sought-after, tree-like plant boasting massive, heavily veined leaves shaped like a fiddle or lyre. Fun Fact: In its native rainforest habitat, it often starts life as an epiphyte growing high up on another tree's branches."
   },
   "ficus_elastica": {
     "name": "Rubber Plant",
@@ -69,7 +77,8 @@
     "baseWateringIntervalDays": 12,
     "idealTemperature": 22.0,
     "idealHumidity": 50.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A robust plant sporting large, thick, glossy leaves that unfurl from striking red sheaths. Fun Fact: The milky white sap it produces was once used commercially to manufacture low-grade rubber."
   },
   "crassula_ovata": {
     "name": "Jade Plant",
@@ -77,7 +86,8 @@
     "baseWateringIntervalDays": 15,
     "idealTemperature": 20.0,
     "idealHumidity": 35.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A popular, branching succulent with a thick, woody stem and fleshy, oval-shaped green leaves. Fun Fact: In many cultures, it is considered a lucky plant that brings financial wealth and prosperity to its owners."
   },
   "philodendron_hederaceum": {
     "name": "Philodendron",
@@ -85,7 +95,8 @@
     "baseWateringIntervalDays": 8,
     "idealTemperature": 23.0,
     "idealHumidity": 55.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A classic, fast-growing trailing plant with delicate, emerald green heart-shaped leaves. Fun Fact: The name Philodendron translates directly from Greek as 'tree hugger'."
   },
   "aglaonema": {
     "name": "Chinese Evergreen",
@@ -93,7 +104,8 @@
     "baseWateringIntervalDays": 10,
     "idealTemperature": 21.0,
     "idealHumidity": 50.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A highly decorative plant valued for its colorful, strikingly patterned foliage ranging from pale silver to vibrant pink. Fun Fact: It has been cultivated in Asia for centuries, where it is considered a harbinger of good fortune."
   },
   "hedera_helix": {
     "name": "English Ivy",
@@ -101,7 +113,8 @@
     "baseWateringIntervalDays": 7,
     "idealTemperature": 18.0,
     "idealHumidity": 45.0,
-    "environment": "Outdoor"
+    "environment": "Outdoor",
+    "description": "A versatile, aggressive climbing or trailing vine characterized by distinctively lobed, deep green leaves. Fun Fact: In ancient Rome and Greece, wreaths of ivy were traditionally worn by poets and athletic victors."
   },
   "nephrolepis_exaltata": {
     "name": "Boston Fern",
@@ -109,7 +122,8 @@
     "baseWateringIntervalDays": 4,
     "idealTemperature": 20.0,
     "idealHumidity": 80.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A lush, classic fern with feathery, arching fronds that thrive in cool, highly humid environments. Fun Fact: It gained massive popularity during the Victorian era when specialized glass cases called Wardian cases were built just to display them."
   },
   "aspidistra_elatior": {
     "name": "Cast Iron Plant",
@@ -117,7 +131,8 @@
     "baseWateringIntervalDays": 14,
     "idealTemperature": 15.0,
     "idealHumidity": 40.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "An incredibly resilient, slow-growing plant with dark, leathery, upright paddle-shaped leaves. Fun Fact: It earned its common name because it can seemingly survive any neglect, extreme temperature drop, or low light condition."
   },
   "chamaedorea_elegans": {
     "name": "Parlor Palm",
@@ -125,7 +140,8 @@
     "baseWateringIntervalDays": 10,
     "idealTemperature": 22.0,
     "idealHumidity": 50.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A compact, attractive indoor palm tree with delicate, light-green pinnate fronds. Fun Fact: It was a staple of high-society Victorian homes, deliberately placed in the 'parlor' where guests were entertained."
   },
   "saintpaulia": {
     "name": "African Violet",
@@ -133,7 +149,8 @@
     "baseWateringIntervalDays": 6,
     "idealTemperature": 21.0,
     "idealHumidity": 60.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A small, low-growing plant celebrated for its velvety, fuzzy leaves and clusters of vibrant, jewel-toned flowers. Fun Fact: They are native to a very specific, small geographical region primarily in the mountains of Tanzania and Kenya."
   },
   "calathea_makoyana": {
     "name": "Calathea",
@@ -141,7 +158,8 @@
     "baseWateringIntervalDays": 7,
     "idealTemperature": 23.0,
     "idealHumidity": 70.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A striking tropical plant known for its ornate, vividly patterned leaves with contrasting purple undersides. Fun Fact: It is part of the 'prayer plant' family, meaning its leaves actively fold up at night as if hands raised in prayer."
   },
   "codiaeum_variegatum": {
     "name": "Croton",
@@ -149,7 +167,8 @@
     "baseWateringIntervalDays": 7,
     "idealTemperature": 24.0,
     "idealHumidity": 60.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A bold, tropical shrub featuring stiff, leathery leaves in dazzling, fiery shades of red, yellow, and orange. Fun Fact: The intensity of its neon foliage colors is directly dependent on receiving plenty of bright sunlight."
   },
   "dracaena_marginata": {
     "name": "Dracaena",
@@ -157,7 +176,8 @@
     "baseWateringIntervalDays": 14,
     "idealTemperature": 22.0,
     "idealHumidity": 50.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "An architectural plant characterized by slender, curving woody stems topped with explosive rosettes of narrow, red-edged leaves. Fun Fact: The botanical name Dracaena is derived from the ancient Greek word 'drakaina', meaning female dragon."
   },
   "alocasia": {
     "name": "Elephant Ear",
@@ -165,7 +185,8 @@
     "baseWateringIntervalDays": 5,
     "idealTemperature": 25.0,
     "idealHumidity": 75.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A dramatic statement plant featuring enormous, arrow-shaped leaves with prominent, contrasting veining. Fun Fact: Its massive leaves are evolutionarily designed to act like giant solar panels, catching scarce light filtering through dense rainforest canopies."
   },
   "beaucarnea_recurvata": {
     "name": "Ponytail Palm",
@@ -173,7 +194,8 @@
     "baseWateringIntervalDays": 20,
     "idealTemperature": 22.0,
     "idealHumidity": 30.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A unique, slow-growing plant with a swollen, bulbous woody trunk and a whimsical fountain of long, curling leaves. Fun Fact: Despite its name and appearance, it's not a palm at all, but rather a succulent in the Asparagus family."
   },
   "aphelandra_squarrosa": {
     "name": "Zebra Plant",
@@ -181,7 +203,8 @@
     "baseWateringIntervalDays": 6,
     "idealTemperature": 21.0,
     "idealHumidity": 65.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A flashy tropical plant prized for its dark green leaves with bold white veins and striking yellow flower bracts. Fun Fact: Its bright yellow floral bracts can last for over a month, while the true flowers tucked inside them die after only a few days."
   },
   "begonia_maculata": {
     "name": "Begonia",
@@ -189,7 +212,8 @@
     "baseWateringIntervalDays": 7,
     "idealTemperature": 20.0,
     "idealHumidity": 60.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A highly photogenic plant featuring asymmetrical angel-wing leaves distinctively dotted with silvery-white polka dots. Fun Fact: The undersides of its striking, patterned leaves are a dramatic, contrasting shade of crimson red."
   },
   "bromeliaceae": {
     "name": "Bromeliad",
@@ -197,7 +221,8 @@
     "baseWateringIntervalDays": 10,
     "idealTemperature": 23.0,
     "idealHumidity": 55.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A diverse family of tropical plants often featuring stiff, overlapping leaves that form a central cup for catching water. Fun Fact: The pineapple is actually the most commercially famous and widely consumed member of the bromeliad family."
   },
   "senecio_rowleyanus": {
     "name": "String of Pearls",
@@ -205,7 +230,8 @@
     "baseWateringIntervalDays": 14,
     "idealTemperature": 22.0,
     "idealHumidity": 40.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A captivating, cascading succulent characterized by spherical, pea-like leaves growing along delicate trailing stems. Fun Fact: The tiny, translucent 'slit' on each spherical leaf acts as a window, allowing light to enter the interior for photosynthesis."
   },
   "tillandsia": {
     "name": "Air Plant",
@@ -213,7 +239,8 @@
     "baseWateringIntervalDays": 7,
     "idealTemperature": 21.0,
     "idealHumidity": 70.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "Unusual, structural plants that grow entirely without soil, absorbing all their water and nutrients directly through their leaves. Fun Fact: They possess roots, but use them strictly as physical anchors to grab onto tree bark and rocks, not for drinking."
   },
   "dypsis_lutescens": {
     "name": "Areca Palm",
@@ -221,7 +248,8 @@
     "baseWateringIntervalDays": 10,
     "idealTemperature": 24.0,
     "idealHumidity": 55.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A popular, clumping palm featuring soft, feathery, arching fronds and striking bamboo-like, yellow-green trunks. Fun Fact: It is an incredibly effective natural humidifier, capable of transpiring up to a liter of water a day into a room."
   },
   "chamaedorea_seifrizii": {
     "name": "Bamboo Palm",
@@ -229,7 +257,8 @@
     "baseWateringIntervalDays": 10,
     "idealTemperature": 22.0,
     "idealHumidity": 50.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A graceful, clumping indoor palm with dark green, reed-like stems that strongly resemble stalks of bamboo. Fun Fact: Because it naturally grows on the shaded floor of tropical forests, it is exceptionally tolerant of low indoor lighting."
   },
   "strelitzia": {
     "name": "Bird of Paradise",
@@ -237,7 +266,8 @@
     "baseWateringIntervalDays": 10,
     "idealTemperature": 25.0,
     "idealHumidity": 60.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A stately, large-scale plant boasting broad, paddle-shaped leaves and spectacularly unique flowers that resemble tropical birds in flight. Fun Fact: In its native South Africa, its dramatic flowers are naturally pollinated by birds, not insects."
   },
   "euphorbia_milii": {
     "name": "Crown of Thorns",
@@ -245,7 +275,8 @@
     "baseWateringIntervalDays": 14,
     "idealTemperature": 24.0,
     "idealHumidity": 30.0,
-    "environment": "Outdoor"
+    "environment": "Outdoor",
+    "description": "A sprawling, woody succulent shrub armed with intimidating sharp thorns but adorned with delicate, colorful flower bracts. Fun Fact: Religious legend suggests that the thorny stems of this plant were woven to make the crown worn by Jesus Christ."
   },
   "cyclamen_persicum": {
     "name": "Cyclamen",
@@ -253,7 +284,8 @@
     "baseWateringIntervalDays": 5,
     "idealTemperature": 15.0,
     "idealHumidity": 50.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A charming, cool-weather tuberous plant featuring swept-back, brightly colored flowers hovering above heart-shaped, patterned leaves. Fun Fact: After a flower is successfully fertilized, the stem physically coils like a spring to pull the developing seed pod down into the soil."
   },
   "echeveria_elegans": {
     "name": "Echeveria",
@@ -261,7 +293,8 @@
     "baseWateringIntervalDays": 15,
     "idealTemperature": 22.0,
     "idealHumidity": 30.0,
-    "environment": "Outdoor"
+    "environment": "Outdoor",
+    "description": "A gorgeous, low-growing succulent that forms incredibly tight, mathematically symmetrical rosettes of pale blue-green leaves. Fun Fact: Due to its shape and frosty coloration, it frequently goes by the charming nickname 'Mexican Snowball'."
   },
   "haworthiopsis_attenuata": {
     "name": "Haworthia",
@@ -269,7 +302,8 @@
     "baseWateringIntervalDays": 20,
     "idealTemperature": 20.0,
     "idealHumidity": 30.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A small, spiky succulent with dark green leaves heavily textured with striking white, warty bands. Fun Fact: Because of its distinct horizontal white stripes, it is frequently confused with aloe and given the nickname 'Zebra Plant'."
   },
   "hoya_carnosa": {
     "name": "Hoya",
@@ -277,7 +311,8 @@
     "baseWateringIntervalDays": 14,
     "idealTemperature": 22.0,
     "idealHumidity": 50.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A long-lived trailing or climbing vine known for its thick, waxy foliage and dense clusters of star-shaped, sweet-smelling flowers. Fun Fact: It is commonly known as the 'Porcelain Flower' because its pale pink blooms look like they are carved from wax or porcelain."
   },
   "kalanchoe_blossfeldiana": {
     "name": "Kalanchoe",
@@ -285,7 +320,8 @@
     "baseWateringIntervalDays": 14,
     "idealTemperature": 20.0,
     "idealHumidity": 40.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A popular flowering succulent sporting scalloped green leaves and clusters of tiny, vibrant blooms that can last for weeks. Fun Fact: To force it to re-bloom indoors, you must simulate winter by giving it 14 hours of complete darkness every night for over a month."
   },
   "lithops_pseudotruncatella": {
     "name": "Lithops",
@@ -293,7 +329,8 @@
     "baseWateringIntervalDays": 30,
     "idealTemperature": 25.0,
     "idealHumidity": 20.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "Fascinating, diminutive succulents that consist of two fleshy, fused leaves with patterned flat tops, sitting mostly below the soil line. Fun Fact: They evolved their remarkable camouflage to look exactly like stones and pebbles to hide from thirsty desert herbivores."
   },
   "pachira_aquatica": {
     "name": "Money Tree",
@@ -301,7 +338,8 @@
     "baseWateringIntervalDays": 10,
     "idealTemperature": 22.0,
     "idealHumidity": 50.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A tropical wetland tree frequently grown indoors as a houseplant, typically sold with multiple flexible trunks braided intricately together. Fun Fact: Feng Shui practitioners highly value this plant, believing it brings positive energy and physically traps good fortune within its braided trunk."
   },
   "phalaenopsis": {
     "name": "Moth Orchid",
@@ -309,7 +347,8 @@
     "baseWateringIntervalDays": 7,
     "idealTemperature": 24.0,
     "idealHumidity": 65.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "An elegant, long-blooming epiphytic orchid featuring wide, leathery leaves and arching sprays of flat, moth-like flowers. Fun Fact: In their native jungle habitats, they grow clinging to tree bark rather than in soil, absorbing moisture directly from the humid air."
   },
   "peperomia_obtusifolia": {
     "name": "Peperomia",
@@ -317,7 +356,8 @@
     "baseWateringIntervalDays": 10,
     "idealTemperature": 20.0,
     "idealHumidity": 50.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A compact, easy-to-grow plant with thick, fleshy, spoon-shaped green leaves growing on remarkably sturdy stems. Fun Fact: The genus name Peperomia means 'resembling pepper,' and the plants are indeed close botanical relatives to the black pepper vine."
   },
   "euphorbia_pulcherrima": {
     "name": "Poinsettia",
@@ -325,7 +365,8 @@
     "baseWateringIntervalDays": 7,
     "idealTemperature": 20.0,
     "idealHumidity": 50.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A globally recognized, festive holiday plant famous for its large, star-shaped crimson or white 'flowers'. Fun Fact: The famous bright red parts of the plant are not actually flower petals at all, but rather modified leaves called bracts."
   },
   "maranta_leuconeura": {
     "name": "Prayer Plant",
@@ -333,7 +374,8 @@
     "baseWateringIntervalDays": 7,
     "idealTemperature": 22.0,
     "idealHumidity": 70.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A visually stunning, low-growing plant known for its velvety oval leaves heavily patterned with red, green, and silver lines. Fun Fact: It gets its common name due to nyctinasty—a process where its leaves fold completely upward at night, resembling hands closed in prayer."
   },
   "cycas_revoluta": {
     "name": "Sago Palm",
@@ -341,7 +383,8 @@
     "baseWateringIntervalDays": 14,
     "idealTemperature": 22.0,
     "idealHumidity": 40.0,
-    "environment": "Outdoor"
+    "environment": "Outdoor",
+    "description": "A rugged, slow-growing plant resembling a stout little palm tree, featuring a textured trunk and stiff, dark green fern-like fronds. Fun Fact: It is not a palm but a cycad, belonging to an ancient lineage of seed plants that have existed since before the dinosaurs."
   },
   "schefflera_arboricola": {
     "name": "Schefflera",
@@ -349,7 +392,8 @@
     "baseWateringIntervalDays": 10,
     "idealTemperature": 21.0,
     "idealHumidity": 50.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A vigorous, bushy plant featuring distinctive clusters of glossy, oval leaves that spread outwards from a central stalk like an umbrella. Fun Fact: In high humidity, it will often send out aerial roots from its trunk that reach the soil to act as extra physical support."
   },
   "ficus_benjamina": {
     "name": "Weeping Fig",
@@ -357,7 +401,8 @@
     "baseWateringIntervalDays": 10,
     "idealTemperature": 22.0,
     "idealHumidity": 50.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A graceful indoor tree with slender, elegantly arching branches completely covered in thousands of small, pointed, papery green leaves. Fun Fact: It is notorious among plant owners for throwing a 'tantrum' and shedding leaves rapidly if its environmental conditions change."
   },
   "yucca_elephantipes": {
     "name": "Yucca",
@@ -365,7 +410,8 @@
     "baseWateringIntervalDays": 20,
     "idealTemperature": 20.0,
     "idealHumidity": 30.0,
-    "environment": "Outdoor"
+    "environment": "Outdoor",
+    "description": "A bold, structural plant featuring thick, rough cane-like trunks topped with dramatic rosettes of stiff, sword-shaped leaves. Fun Fact: Its species name 'elephantipes' derives from the fact that the swollen base of mature trunks strongly resembles an elephant's foot."
   },
   "peperomia_prostrata": {
     "name": "String of Turtles",
@@ -373,7 +419,8 @@
     "baseWateringIntervalDays": 10,
     "idealTemperature": 21.0,
     "idealHumidity": 60.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A delicate, miniature trailing plant known for its tiny, round, succulent-like leaves intricately patterned to look like turtle shells. Fun Fact: Despite its fleshy, drought-tolerant appearance, it actually originates from the deeply shaded, humid rainforests of Brazil."
   },
   "caryota": {
     "name": "Fishtail Palm",
@@ -381,7 +428,8 @@
     "baseWateringIntervalDays": 12,
     "idealTemperature": 25.0,
     "idealHumidity": 60.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A visually unusual, clumping palm tree characterized by its dense bipinnate foliage with jagged leaflets shaped exactly like fish tails. Fun Fact: It is a monocarpic plant, meaning an individual stem will flower only once at the very end of its life before dying."
   },
   "hypoestes_phyllostachya": {
     "name": "Polka Dot Plant",
@@ -389,7 +437,8 @@
     "baseWateringIntervalDays": 5,
     "idealTemperature": 22.0,
     "idealHumidity": 65.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A vibrant, compact foliage plant prized for its bright green leaves heavily splashed, mottled, and speckled with pink, red, or white dots. Fun Fact: While tiny in a living room pot, in its native Madagascar it grows vigorously into a shrub several feet tall."
   },
   "fittonia": {
     "name": "Nerve Plant",
@@ -397,6 +446,7 @@
     "baseWateringIntervalDays": 5,
     "idealTemperature": 23.0,
     "idealHumidity": 70.0,
-    "environment": "Indoor"
+    "environment": "Indoor",
+    "description": "A low-growing, creeping tropical plant featuring lush, dark green leaves heavily traced with a striking network of pink, red, or white veins. Fun Fact: It is widely considered a 'drama queen' because it will dramatically collapse flat when thirsty, only to perk right back up after watering."
   }
 }
